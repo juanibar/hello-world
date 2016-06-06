@@ -8,7 +8,7 @@
 <body>
 <?php
 echo "introduzco un cambio re boludo<br>";
-echo "este cambio solo lo hago en la rama testing jiji que miedo";
+echo "saque algo en una rama";
 ?>
 </body>
 </html>
