@@ -8,7 +8,7 @@
 <body>
 <?php
 echo "introduzco un cambio re boludo<br>";
-echo "aca se viene el conflictooo uhuhu";
+echo "resuelvo el conflicto";
 ?>
 </body>
 </html>
