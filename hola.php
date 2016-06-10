@@ -7,9 +7,7 @@
 
 <body>
 <?php
-echo "introduzco un cambio re boludo<br>";
-echo "rdsadsadsao";
-echo "esta es la rama serverfix"
+borre todo
 ?>
 </body>
 </html>
